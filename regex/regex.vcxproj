@@ -147,9 +147,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="minidfa.cpp" />
-    <ClCompile Include="nfa2dfa.cpp" />
-    <ClCompile Include="re2nfa.cpp" />
+    <ClCompile Include="regex.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="regex.h" />

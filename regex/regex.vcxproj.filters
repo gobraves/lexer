@@ -15,16 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="re2nfa.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="nfa2dfa.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="minidfa.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="regex.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

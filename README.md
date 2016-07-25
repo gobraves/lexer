@@ -1,4 +1,4 @@
-# Lexer
+# Regex
 
 参考engineering a compiler实现一个简单的lexer。打算先按照
 
