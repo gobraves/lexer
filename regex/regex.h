@@ -37,7 +37,7 @@ namespace regex {
 
 	/* 
 	*RE to NFA
-	*´Ë´¦REÉæ¼°ÈıÖÖÔËËã*£¬|£¬+
+	*æ­¤å¤„REæ¶‰åŠä¸‰ç§è¿ç®—*ï¼Œ|ï¼Œ+
 	*/
 	NFA RE2NFA(std::string re);
 	
