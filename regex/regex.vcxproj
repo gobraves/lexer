@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{B08B3F57-3178-48C7-B352-8FF77F1AC456}</ProjectGuid>
+    <ProjectGuid>{BBBCEDD9-430D-4B6E-9C89-14590BEDB89E}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>lexer</RootNamespace>
+    <RootNamespace>regex</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
